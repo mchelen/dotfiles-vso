@@ -10,13 +10,8 @@ Dotfiles Repository
 
     https://github.com/mchelen/dotfiles-vso
 
-Dotfiles Install Command
+Dotfiles Install Command - default
 
-    install.sh
-    
-Dotfiles Target Path
-
-    ~/dotfiles
-
+Dotfiles Target Path - default
 
 Reference: https://docs.microsoft.com/en-us/visualstudio/online/reference/personalizing
